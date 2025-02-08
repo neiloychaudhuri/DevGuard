@@ -1,0 +1,10 @@
+{
+    "name": "DevGuard",
+    "description": "Protect your code from being attacked",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "devguard.html",
+      "default_icon": "devguard_icon.png"
+    }
+  }
